@@ -1,0 +1,12 @@
+.btn-banner {
+  color: white;
+  background-color: #6C63FF;
+  border-radius: 4px;
+  padding: 12px 16px;
+  display: inline-block;
+  opacity: 0.8;
+}
+
+.btn-banner:hover {
+  opacity: 1.0;
+}
